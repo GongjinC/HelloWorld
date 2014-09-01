@@ -7,6 +7,7 @@ public class HelloWorld {
 		//this is comment
 		System.out.println("hello world!");
 		System.out.println("good git practice.");
+		System.out.println("new changes");
 	}
 
 }
